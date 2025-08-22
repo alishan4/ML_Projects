@@ -1,4 +1,4 @@
-# Day 1: Vector Operations for ML
+# Vector Operations for ML
 ## Overview
 - Implements vector operations (dot product, addition, norm) using NumPy.
 - Simulates player stats dataset (runs, wickets) like PHP/MyAdmin tables.
